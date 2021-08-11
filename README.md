@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Dafov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dafov)](https://github.com/anuraghazra/github-readme-stats)
+[![Dafov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dafov&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Dafov/Dafov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
