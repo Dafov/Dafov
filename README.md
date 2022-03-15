@@ -1,4 +1,4 @@
-![](https://ibb.co/6vjRGMQ)
+![](https://i.ibb.co/CJR54cL/Capture.jpg)
 
 A highly motivated young person with a passion for programming, seeking an oportunity that is offering innovative capabilities where I can prove my skills and improve my qualities.
 
