@@ -1,8 +1,4 @@
-![](https://i.ibb.co/CJR54cL/Capture.jpg)
-
-A highly motivated young person with a passion for programming, seeking an oportunity that is offering innovative capabilities where I can prove my skills and improve my qualities.
-
-- 🔭 I’m currently working on my Website. 
+- ☁️ I’m currently learning Salesforce Commerce Cloud. 
 
 [![Dafov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dafov&hide=stars,prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
